@@ -2,7 +2,7 @@ public class Premiere
 {
  public static void main (String args[])
  {
-  System;out.println("ana 3yite ");
+  System.out.println("ana 3yite ");
   //ajout1
   //ajout2
  }
